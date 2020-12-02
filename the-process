@@ -1,0 +1,24 @@
+	--Get latest master files
+	git pull origin master
+
+	--Create branch
+	git checkout -b "branch name"
+
+	--Make changes or add files
+
+	--Check status
+	git status
+
+	--Add 
+	git add .
+
+	--Commit
+	git commit -m "message about changes"
+
+	--Push
+	git push origin branch name
+	
+	--Create pull request in Stash 
+
+--Once code review is successful…
+--perform a merge
